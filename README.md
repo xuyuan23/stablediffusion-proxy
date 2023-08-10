@@ -18,6 +18,9 @@ sudo yum install httpd
 sudo systemctl start httpd
 ```
 
+## Quick Start
+- Minute-level deployment based on Alibaba Cloud mirror, http://operategpt.cn/web/#/p/9cfc5cffa5120f8a520573f092f436d1
+
 
 ## Test
 ``` bash
